@@ -1,0 +1,12 @@
+﻿{
+  "SchemaVersion": 1,
+  "Name": "TalkingPlant",
+  "ComponentId": "3b2e078b-09af-4503-9560-00540eeeeab5",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "Gpio": [ 9 ],
+    "AllowedApplicationConnections": []
+  },
+  "ApplicationType": "Default"
+}
